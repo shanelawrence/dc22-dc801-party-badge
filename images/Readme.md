@@ -10,7 +10,7 @@ This is the mini speaker, connects via contact only, you can see the contacts in
 
 ![Speaker](./03-speaker.jpg)
 
-Back of the board, note the contacts for the speak in the upper right corner
+Back of the board, note the contacts for the speaker in the upper right corner
 
 ![Back of main board](./04-boardback.jpg)
 
